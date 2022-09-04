@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaydawg007
+- 👋 Hi, I’m Uthman
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source projects
